@@ -6,7 +6,6 @@
 - 📫 How to reach me **furkan5590@hotmail.com**
 
 
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
