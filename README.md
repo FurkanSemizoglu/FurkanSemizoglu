@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **full stack web development**
 
+- 👨‍💻 I was interested in **mobile app development**
+
 - 📫 How to reach me **furkan5590@hotmail.com**
 
 
